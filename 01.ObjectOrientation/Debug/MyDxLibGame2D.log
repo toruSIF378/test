@@ -1,0 +1,14 @@
+﻿  EnemyBase.cpp
+d:\tricore\01.objectorientation\enemybase.h(3): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+d:\tricore\01.objectorientation\enemybase.cpp(32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Game.cpp
+d:\tricore\01.objectorientation\player.h(6): warning C4099: 'Shot': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+  d:\tricore\01.objectorientation\game.h(6): note: 'Shot' の宣言を確認してください
+d:\tricore\01.objectorientation\enemybase.h(3): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+d:\tricore\01.objectorientation\shot.h(6): warning C4099: 'Player': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+  d:\tricore\01.objectorientation\player.h(9): note: 'Player' の宣言を確認してください
+d:\tricore\01.objectorientation\shot.h(7): warning C4099: 'Enemy': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+  d:\tricore\01.objectorientation\enemy.h(9): note: 'Enemy' の宣言を確認してください
+  main.cpp
+  コードを生成中...
+  MyDxLibGame2D.vcxproj -> D:\Tricore\01.ObjectOrientation\Debug\MyDxLibGame2D.exe
